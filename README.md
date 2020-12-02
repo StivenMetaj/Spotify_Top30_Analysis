@@ -1,4 +1,6 @@
 # Spotify Top30 Analysis
+[![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W-m-ub4bFGmV7F01aa0MWEdGV1Py_iko)
+***
 For the "**Data and Results Visualization**" exam we had to present a project to show we were able to find some interesting patterns using the visualization techniques explained in the course.
 
 The first step of the project was to find the right dataset in order to achieve the goal; we liked the idea of scraping the **Spotify** data about top charts around the world using the provided API, so we decided to build a dataset composed by the **top 30** charts of 30 different countries between 2017 and 2020 (we have different top 30 each week).
